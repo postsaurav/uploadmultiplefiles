@@ -1,0 +1,32 @@
+{
+  "id": "f5f02671-9da4-4aaa-a283-8966569704ef",
+  "name": "Upload Multiple Files",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "This extension enables you to add multiple files in Document Attachment.",
+  "description": "Allow to add multiple files in Document Attachment.",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
